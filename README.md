@@ -19,7 +19,7 @@ This project demonstrates an end-to-end Earth Observation (EO) data processing a
 
 ### **2. Data**
 
-* Source: Sentinel-2 imagery from [Copernicus Open Access Hub](https://scihub.copernicus.eu/) or Google Earth Engine.
+* Source: Sentinel-2 imagery from Copernicus Open Access Hub or Google Earth Engine.
 * Format: Multi-band raster images (GeoTIFF) with associated metadata.
 * Coverage: Select test region for demonstration (e.g., European or African region).
 
@@ -95,6 +95,12 @@ This project demonstrates an end-to-end Earth Observation (EO) data processing a
 3. Configure GCP credentials and storage buckets.
 4. Run preprocessing and ML notebooks sequentially.
 5. Visualize outputs in QGIS or Python notebooks.
+
+### **8. Useful links**
+* [Copernicus Browser](https://browser.dataspace.copernicus.eu/)
+* [Custom scripts library](https://custom-scripts.sentinel-hub.com/) 
+* [Gallery](https://dataspace.copernicus.eu/gallery)
+* [Forum](https://forum.dataspace.copernicus.eu/)
 
 
 
